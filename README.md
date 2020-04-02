@@ -6,8 +6,7 @@
 
 ### -
 
-csv文件的格式为|  name   |  type  | value  |date|
-              
+csv文件的格式为|  name   |  type  | value  |date|   
                |国家名称 |所属大洲|确诊人数|日期|  
                
 #### - 
